@@ -1,0 +1,9 @@
+Project Files/SFML-2.5.1
+Debug
+CMakeFiles
+SpaceInvaders.dir
+*.vcxproj
+*.vcxproj.*
+*.cmake
+*.sln
+.vs
